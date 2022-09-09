@@ -2,8 +2,7 @@
 ## Sapienza Training Camp 2022
 ### Image Classification with Real World Data Distributions
 
-The competition was hosted by Leonardo Labs:
-https://www.leonardo.com/en/innovation-technology/leonardo-labs
+This private Kaggle competition was hosted by Leonardo Labs: https://www.leonardo.com/en/innovation-technology/leonardo-labs
 In this competition we had to classify 7 different classes of marine ships:
 
 1. battleships

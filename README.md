@@ -15,3 +15,8 @@ In this competition we had to classify 7 different classes of marine ships:
 7 submarines
 
 We trained an Artificial Neural Network to carry out a multiclass image classification task. We obtained an accuracy ~95%. The code we developed is in the *KaggleCompetitionFinal.ipynb* file, the training and testing images are in the associated folder. 
+
+*Collaboartors*:
+- Andrea Conti
+- Hassan Raza
+- Simone Boesso

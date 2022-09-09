@@ -1,6 +1,7 @@
 # Kaggle-Competition
 ## Sapienza Training Camp 2022
 ### Image Classification with Real World Data Distributions
+![Schermata 2022-09-09 alle 15 06 12](https://user-images.githubusercontent.com/91341004/189356716-2b28cd25-923f-4bde-b87b-94681d59013b.png)
 
 This private Kaggle competition was hosted by Leonardo Labs: https://www.leonardo.com/en/innovation-technology/leonardo-labs
 In this competition we had to classify 7 different classes of marine ships:

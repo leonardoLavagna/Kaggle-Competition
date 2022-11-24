@@ -21,5 +21,8 @@ We trained an Artificial Neural Network to carry out a multiclass image classifi
 - The training and testing images in the associated folder
 - The results obtained can be found in the file `submission.csv` where are reported the names of the images tested and the predicted class number.
 
+### Dataset
+The dataset was provided via the Kaggle platform and is available in the images folder of this repository.
+
 ### Disclamair
 This project was part of a training camp organize by promoted by Leonardo Labs and Prof. F. Galasso at Sapienza University of Rome. This project was done in collaboration with Andrea Conti, Hassan Raza and Simone Boesso.

@@ -14,9 +14,12 @@ In this competition we had to classify 7 different classes of marine ships:
 5. motor-yachts
 6. submarines
 
-We trained an Artificial Neural Network to carry out a multiclass image classification task. We obtained an accuracy ~95%. The code we developed is in the *KaggleCompetitionFinal.ipynb* file, the training and testing images are in the associated folder. The results obtained can be found in the file submission.csv where are reported the names of the images tested and the predicted class number.
+We trained an Artificial Neural Network to carry out a multiclass image classification task. We obtained an accuracy ~95%. 
 
-*Collaboartors*:
-- Andrea Conti
-- Hassan Raza
-- Simone Boesso
+### What's in here? 
+- The code we developed is in the *KaggleCompetitionFinal.ipynb* file, 
+- The training and testing images in the associated folder
+- The results obtained can be found in the file `submission.csv` where are reported the names of the images tested and the predicted class number.
+
+### Disclamair
+This project was part of a training camp organize by promoted by Leonardo Labs and Prof. F. Galasso at Sapienza University of Rome. This project was done in collaboration with Andrea Conti, Hassan Raza and Simone Boesso.
